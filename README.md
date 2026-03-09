@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Khushal+Thanvi;AI+%26+Data+Science+Enthusiast;Building+Next-Gen+ML+Systems" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/MachineLearning.gif" width="400" alt="Machine Learning/AI Animated Graphic" />
-</p>
+<div align="center">
+  <img src="./assets/ai-animation.svg" width="100%" height="200" alt="Data Science/Neural Network Animation" />
+</div>
 
 <p align="center">
   <a href="https://github.com/Khushal-Thanvi">
