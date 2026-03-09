@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/MachineLearning.gif" width="400" alt="Machine Learning/AI Animated Graphic" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Khushal-Thanvi">
     <img src="https://komarev.com/ghpvc/?username=Khushal-Thanvi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
@@ -87,17 +91,7 @@ I am an AI Developer and Data Scientist passionate about pushing the boundaries 
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Khushal-Thanvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushal-Thanvi/Khushal-Thanvi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khushal-Thanvi/Khushal-Thanvi/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Khushal-Thanvi/Khushal-Thanvi/output/github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
